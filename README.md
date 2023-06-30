@@ -5,7 +5,7 @@
 </p>
 
 
-<img align="right"alt="coding"width="200"scr="![image](https://github.com/tanmay8830/tanmay8830/assets/105844851/997846ea-7745-4c25-a1b0-4eb38477adf2)">
+<img align="right"alt="coding"width="200"scr=[image]https://github.com/tanmay8830/tanmay8830/assets/105844851/997846ea-7745-4c25-a1b0-4eb38477adf2">
 
 
 ![Profile Banner](./profile-banner.png)
