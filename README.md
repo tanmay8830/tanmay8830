@@ -34,10 +34,8 @@ I'm currently working on some new projects & learning Technology Framework Tool.
 
 ## 📫 How to Reach Me
 
-- Email: tanmayk938@gmail.com
-- LinkedIn: Tanmay Kundu(https://www.linkedin.com/in/tanmay-kundu-897774212/)
-- Facebook: Tanmay Kundu(https://www.facebook.com/tanmay.kundu.737448)
-- Instagram: i_m_tanmay(https://www.instagram.com/_i_m_tanmay_/)
+- Email: **tanmayk938@gmail.com**
+
 
 Feel free to reach out to me if you have any questions or would like to collaborate on an interesting project!
 
