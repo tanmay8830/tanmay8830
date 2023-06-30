@@ -6,8 +6,6 @@
   <strong>Android Developer</strong> 📱 | Freelancer🧑🏻‍💻 | Open Source Enthusiast 💻 
 </p>
 
-![Profile Banner](./profile-banner.png)
-
 ## 👨‍💻 About Me
 
 I'm a passionate Freelancer & Android developer with 1+ years of experience. I love creating innovative and user-friendly apps that make a positive impact. I enjoy exploring new technologies and sharing my knowledge with the developer community.
