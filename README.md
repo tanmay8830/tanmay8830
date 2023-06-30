@@ -36,6 +36,13 @@ I'm currently working on some new projects & learning Technology Framework Tool.
 
 - Email: **tanmayk938@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tanmay kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay kundu" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/tanmay.kundu.737448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanmay.kundu.737448" height="30" width="40" /></a>
+<a href="https://instagram.com/_i_m_tanmay_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_i_m_tanmay_" height="30" width="40" /></a>
+</p>
+
 
 Feel free to reach out to me if you have any questions or would like to collaborate on an interesting project!
 
