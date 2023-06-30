@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay8830&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay8830" /> </p>
+
 <h1 align="center">👋 Hello, I'm Tanmay Kundu </h1>
 
 <p align="center">
