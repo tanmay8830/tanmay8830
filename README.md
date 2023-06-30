@@ -12,7 +12,7 @@ I'm a passionate Freelancer & Android developer with 1+ years of experience. I l
 
 ## 🔧 Skills
 
-- Android Development (Java, Kotlin)
+- Android Development (Kotlin , Java)
 - Android SDK 
 - Android Architecture
 - Version Controling and Git
