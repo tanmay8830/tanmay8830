@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello, I'm Tanmay Kundu </h1>
 
 <p align="center">
-  <strong>Android Developer</strong> 📱 | Freelancer🧑🏻‍💻 | Open Source Enthusiast 💻 
+  <strong>Android Developer</strong> 📱 | Open Source Enthusiast 💻 
 </p>
 
 ## 👨‍💻 About Me
