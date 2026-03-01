@@ -167,6 +167,47 @@ val experience = listOf(
 
 ---
 
+## 🏍️ Life Beyond Code
+
+<div align="center">
+
+![NS200 Rider](./ns200_rider.svg)
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║    🍳  EAT    →    💤  SLEEP    →    💻  CODE           ║
+║                                                          ║
+║    🏍️  RIDE   →    🔁  REPEAT   →    ☕  COFFEE         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+I'm a proud **Bajaj Pulsar NS200** rider 🔥 — the street naked that hits different.
+When I'm not pushing code, I'm pushing throttle. The NS200 isn't just a bike,
+it's a *lifestyle* — raw power, aggressive stance, and pure riding pleasure.
+
+<div align="center">
+
+| 🏍️ My Ride | ❤️ Why I Love It |
+|---|---|
+| **Bajaj Pulsar NS200** | 200cc Liquid-Cooled Engine · 24.5 PS |
+| **Riding Style** | Highway Cruising + City Commute |
+| **Weekend Mood** | Solo Rides · Mountain Roads · Night Rides |
+| **Helmet** | Full-face always 🪖 — Safety First! |
+
+</div>
+
+> *"Four wheels move the body. Two wheels move the soul."* 🏍️
+
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
